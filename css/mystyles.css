@@ -1,0 +1,82 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+.site-heading-lower{
+    font-family: 'Times New Roman', Times, serif;
+}
+.mb-3{
+    font-family: 'Times New Roman', Times, serif;
+    color: black; !important;
+}
+
+.intro-text{
+    box-shadow: 5px 5px 10px rgba(0 ,0 ,0 ,0.5)
+}
+.section-heading-lower{
+    color: black;
+   font-family: trajan pro;
+   font-size: small; !important;
+
+}
+.section-heading-upper{
+    color: black;
+    font-family: trajan pro;
+}
+
+.common{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    position: absolute;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+.middle{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    background-color: black;
+    font-style: italic;
+    font-weight: bolder;
+    color: antiquewhite;
+}
+.imgcenter{
+    display:block;
+    margin: auto;
+    border: 101px;
+    border-color: black;
+}
+a:visited{
+    color: black;
+}
+
+.video{
+    display: block;
+    margin: auto;
+    border: 10px;
+    border-color: black;
+}
+.heading{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.opening{
+    text-align: center;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
